@@ -200,7 +200,7 @@
 - Terminal Multiplexer
 
 
- <img src="1.jpeg" alt=" " width="600px">  
+
  <img src="2.jpeg" alt=" " width="600px">  
  <img src="3.jpeg" alt=" " width="600px">  
  <img src="4.jpeg" alt=" " width="600px">  
